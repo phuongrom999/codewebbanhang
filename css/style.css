@@ -2394,3 +2394,6 @@ h2 {
         text-align: center; 
     } 
 }
+input{
+    outline: none;
+}
